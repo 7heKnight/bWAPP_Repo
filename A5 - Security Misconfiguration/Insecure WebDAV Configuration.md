@@ -4,14 +4,14 @@ WebDAV (Web Distributed Authoring and Versioning) is a set of extensions to the 
 
 Following Microsoft defined about [WebDAV](https://learn.microsoft.com/en-us/previous-versions/office/developer/exchange-server-2003/aa142923(v=exchg.65)), We can also known and use following method.
 
-![WebDAV_I0.png](WebDAV_I0.png)
+![WebDAV_I0.png](img/WebDAV_I0.png)
 
 ---
 ## 2. Vulnerability
 
 On first look. the Web page is loaded into `/bWAPP/sm_webdav.php`.
 
-![WebDAV_V0.png](bWAPP_Level2/A5%20-%20Security%20Misconfiguration/img/WebDAV_V0.png)
+![WebDAV_V0.png](img/WebDAV_V0.png)
 
 And here is default on API `/WebDAV/`
 
@@ -19,9 +19,9 @@ And here is default on API `/WebDAV/`
 ### 2.1 PUT Method
 Trying with PUT method to upload a PHP shell.
 
-![WebDAV_P0.png](WebDAV_P0.png)
+![WebDAV_P0.png](img/WebDAV_P0.png)
 After created a file success with PHP `system()` call
-![WebDAV_P1.png](WebDAV_P1.png)
+![WebDAV_P1.png](img/WebDAV_P1.png)
 
 ### 2.2 DELETE Method
 

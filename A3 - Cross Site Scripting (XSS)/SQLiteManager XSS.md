@@ -1,10 +1,10 @@
 ## 1. Scenario
 
-![[XSS_SQLiteM_S0.png]]
+![XSS_SQLiteM_S0.png](img/XSS_SQLiteM_S0.png)
 
 https://exchange.xforce.ibmcloud.com/vulnerabilities/72141
 
-![[XSS_SQLiteM_S1.png]]
+![XSS_SQLiteM_S1.png](img/XSS_SQLiteM_S0.png)
 
 ---
 ## 2. Vulnerability

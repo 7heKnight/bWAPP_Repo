@@ -1,0 +1,13 @@
+List Vulnerabilities
+1. [HTML Injection - Reflected (GET)](HTML%20Injection%20-%20Reflected%20(GET).md)
+2. [HTML Injection - Reflected (POST)](HTML%20Injection%20-%20Reflected%20%28POST%29.md)
+3. [HTML Injection - Reflected (URL)](HTML%20Injection%20-%20Reflected%20%28URL%29.md)
+4. [HTML Injection - Stored (Blog)](HTML%20Injection%20-%20Stored%20%28Blog%29.md)
+5. [iFrame Injection](iFrame%20Injection.md)
+6. [OS Command Injection](OS%20Command%20Injection.md)
+7. [Server-Side Includes (SSI) Injection](Server-Side%20Includes%20%28SSI%29%20Injection.md)
+8. [SQL Injection - Stored (User-Agent)](SQL%20Injection%20-%20Stored%20%28User-Agent%29.md)
+9. [SQL Injection (AJAX-JSON-jQuery)](SQL%20Injection%20%28AJAX-JSON-jQuery%29.md)
+10. [SQL Injection (GET-Search)](SQL%20Injection%20%28GET-Search%29.md)
+11. [SQL Injection (GET-Select)](SQL%20Injection%20%28GET-Select%29.md)
+12. To be continue... 

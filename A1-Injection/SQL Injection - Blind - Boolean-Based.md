@@ -1,6 +1,6 @@
 # 1. Low
 
-![SQL_B-B_L0.png](SQL_B-B_L0.png)
+![SQL_B-B_L0.png](image/SQL_B-B_L0.png)
 
 When inputting Single quote (`'`), the server response with `Incorrect syntax detected!`. Using comment character to make statement correct, I used `'#` and the response was `The movie does not exist in our database!` which mean the query statement correct. Go on BurpSuite and repeat the request.
 Using OR statement if return True so that the Backend will returned `The movie exists in our database!`. I'm using this payload: `'OR+1=0%23`, or you can also use AND statement `iron man'AND+1=1%23`.

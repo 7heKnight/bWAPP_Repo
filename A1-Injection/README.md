@@ -10,4 +10,4 @@ List Vulnerabilities
 9. [SQL Injection (AJAX-JSON-jQuery)](SQL%20Injection%20%28AJAX-JSON-jQuery%29.md)
 10. [SQL Injection (GET-Search)](SQL%20Injection%20%28GET-Search%29.md)
 11. [SQL Injection (GET-Select)](SQL%20Injection%20%28GET-Select%29.md)
-12. To be continue... 
+12. [SQL Injection - Blind - Boolean-Based](SQL%20Injection%20-%20Blind%20-%20Boolean-Based)
